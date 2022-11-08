@@ -1,3 +1,3 @@
 # startpage
 
-Personal start page using Tailwind and PHP.
+Personal start page using Foundation and PHP.
